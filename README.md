@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Copticoder
-- 👀 I’m interested in mobile development,software engineering and AI
+- 👀 I’m interested in mobile development and AI
 - 🌱 I’m currently learning AI and mobile development
 
 <!---
